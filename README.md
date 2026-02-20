@@ -1,6 +1,6 @@
 # mownit
 
 Zadania do laborek z Mownitu.
-Laborki sukcesywnie sprawdzane z wersją Julii 1.11.3
+Laborki sukcesywnie sprawdzone z wersją Julii 1.12.5 (edycja lato 2025/26)
 
 
